@@ -19,7 +19,9 @@ After testing everything on RunPod, I want to show you how to claim and use tria
 ## How to Claim RunPod Free Credits
  
 **Step 1 — Create a new account.** The credit offer is for first-time users only.
- 
+
+ <img width="1799" height="879" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/357f8194-c4d6-4ea4-a7aa-6c94a273b0c8" />
+
 **Step 2 — Make your first deposit.** The credit isn't handed out on signup alone. It's triggered when you make your first deposit or spend on the platform.
  
 **Step 3 — Use the credit with a real purpose.** Go in with a specific workload in mind, not just to spin up random instances.
